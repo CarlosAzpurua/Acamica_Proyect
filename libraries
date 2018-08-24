@@ -1,0 +1,5 @@
+import numpy as np # Importo numpy
+import pandas as pd # Importo pandas
+import matplotlib.pyplot as plt # Importo matplotlib
+import seaborn as sns # Es una libreria como matplot.lib pero de visualizacion 
+sns.set(style="darkgrid") # Esto es un extra solo le da una escala de grises
