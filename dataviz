@@ -1,0 +1,7 @@
+# La siguiente línea es para ver las imagenes dentro del notebook
+%matplotlib inline
+# Acá configuramos el tamaño de las figuras
+plt.rcParams['figure.figsize'] = (12,8)
+# Seteamos opciones de pandas sobre las columnas y su ancho
+pd.set_option('max_columns', 120)
+pd.set_option('max_colwidth', 5000)
